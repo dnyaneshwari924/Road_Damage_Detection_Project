@@ -88,8 +88,5 @@ If you use this dataset in your work, please cite:
 https://doi.org/10.5281/zenodo.17834373
 ```
 
----
 
-## 📄 License
 
-*(Add your dataset's license here, e.g. CC BY 4.0, MIT, etc.)*
