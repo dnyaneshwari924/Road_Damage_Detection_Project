@@ -1,0 +1,9 @@
+path: C:/Users/Dnyaneshwari Jogdand/Documents/AI_Road_Damage/archive/data/road_dataset
+
+train: train/images
+val: val/images
+
+names:
+  0: pothole
+  1: crack
+  2: manhole
